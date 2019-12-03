@@ -9,7 +9,7 @@
 <body>
 	<center>
 		<h3>
-			<a href="<?php echo base_url('C_page/');?>">Kembali  </a> &nbsp; &nbsp;
+			<a href="<?php echo base_url('C_page/tampilan');?>">Kembali  </a> &nbsp; &nbsp;
 		</h3>
 	
 <?php foreach ($aamhs as $itemmhs ) {?>
